@@ -1,5 +1,5 @@
 # EasyConstraints
-This is just a wrapper for writing native autolayout constraints with easy way
+This is just a wrapper for writing native Auto Layout constraints with easy way
 
 <img src="https://github.com/deda9/EasyConstraints/blob/master/image.png" height="568" width="280">
 
